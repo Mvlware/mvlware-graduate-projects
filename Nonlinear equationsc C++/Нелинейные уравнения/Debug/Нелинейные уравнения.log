@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\users\mvlvngo\onedrive\documents\фил\вуз\2 семестр\ооп\андрей\нелинейные уравнения\source.cpp(39): warning C4102: 'main': unreferenced label
+c:\users\mvlvngo\onedrive\documents\фил\вуз\2 семестр\ооп\андрей\нелинейные уравнения\source.cpp(165): warning C4715: 'progg': not all control paths return a value
+  Нелинейные уравнения.vcxproj -> C:\Users\MVLVNGO\OneDrive\Documents\ФИЛ\ВУЗ\2 СЕМЕСТР\ООП\Андрей\Debug\Нелинейные уравнения.exe
+  Нелинейные уравнения.vcxproj -> C:\Users\MVLVNGO\OneDrive\Documents\ФИЛ\ВУЗ\2 СЕМЕСТР\ООП\Андрей\Debug\Нелинейные уравнения.pdb (Partial PDB)
